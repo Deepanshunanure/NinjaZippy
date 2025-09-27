@@ -1,0 +1,10 @@
+setup.py
+NinjaZipPy.egg-info/PKG-INFO
+NinjaZipPy.egg-info/SOURCES.txt
+NinjaZipPy.egg-info/dependency_links.txt
+NinjaZipPy.egg-info/entry_points.txt
+NinjaZipPy.egg-info/requires.txt
+NinjaZipPy.egg-info/top_level.txt
+ninja_zip_py/__init__.py
+ninja_zip_py/cli.py
+ninja_zip_py/core.py

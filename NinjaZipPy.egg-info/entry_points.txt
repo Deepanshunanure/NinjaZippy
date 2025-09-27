@@ -1,0 +1,2 @@
+[console_scripts]
+ninjazippy = ninja_zip_py.cli:main

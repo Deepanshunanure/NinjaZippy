@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: NinjaZipPy
+Version: 0.0.1
+Summary: A Python utility for zipping and unzipping .7z archives (Functional Migration).
+Author: Your Name
+License: MPL-2.0
+Requires-Python: >=3.6
+Requires-Dist: py7zr
+Dynamic: author
+Dynamic: license
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
